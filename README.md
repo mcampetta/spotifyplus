@@ -1,0 +1,2 @@
+# spotifyplus
+Spotify without restrictions
